@@ -1,1 +1,3 @@
-penambahan fitur 1 pada commit 2
+penambahan fitur 1 pada commit > 2
+
+penambahan fitur 2 perubahan dari fitur 1 > commit 3
