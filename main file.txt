@@ -2,4 +2,4 @@ project pertama kali
 
 yang ini ganti rebranch ke 2
 
-after rebranch yang kedua
+after rebranch yang pertama
